@@ -1,4 +1,5 @@
 {
+    "name": "mike-jg/pwned-api",
     "type": "library",
     "description": "PwnedApi is a PHP library to work with the API at https://haveibeenpwned.com/API/v2/",
     "keywords": ["security", "password", "web service"],
