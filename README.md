@@ -2,6 +2,8 @@
 
 This is meant as a simple way to interface with the service at https://haveibeenpwned.com/API/v2/
 
+[![Build Status](https://travis-ci.org/mike-jg/pwned-api.svg?branch=master)](https://travis-ci.org/mike-jg/pwned-api)
+
 ## Installation
 
 ```
