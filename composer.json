@@ -1,0 +1,22 @@
+{
+    "type": "library",
+    "description": "PwnedApi is a PHP library to work with the API at https://haveibeenpwned.com/API/v2/",
+    "keywords": ["security", "password", "web service"],
+    "require": {
+        "php": "^7.1",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PwnedApi\\": "src/PwnedApi/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "PwnedApi\\Tests\\": "tests/"
+        }
+    }
+}
